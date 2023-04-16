@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "카페 메뉴 가격 계산
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "비밀번호 마스터", "비밀번호 마스터\비밀번호 마스터.vcxproj", "{AEAD59B2-54CE-4254-8884-E29EEEE34516}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "총점평균구하기", "총점평균구하기\총점평균구하기.vcxproj", "{93315385-88AA-48A3-A2AE-17A06A8F0E42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{AEAD59B2-54CE-4254-8884-E29EEEE34516}.Release|x64.Build.0 = Release|x64
 		{AEAD59B2-54CE-4254-8884-E29EEEE34516}.Release|x86.ActiveCfg = Release|Win32
 		{AEAD59B2-54CE-4254-8884-E29EEEE34516}.Release|x86.Build.0 = Release|Win32
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Debug|x64.ActiveCfg = Debug|x64
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Debug|x64.Build.0 = Debug|x64
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Debug|x86.ActiveCfg = Debug|Win32
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Debug|x86.Build.0 = Debug|Win32
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Release|x64.ActiveCfg = Release|x64
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Release|x64.Build.0 = Release|x64
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Release|x86.ActiveCfg = Release|Win32
+		{93315385-88AA-48A3-A2AE-17A06A8F0E42}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
