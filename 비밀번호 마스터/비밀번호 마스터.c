@@ -12,7 +12,7 @@ int getNumber(int);
 
 
 int main(void) {
-	//변수 선언 및 초기 작업입니다
+	//변수 선언 및 초기 작업
 	int num1, num2;
 	int level = 1;
 	int answer = -1;
