@@ -9,7 +9,7 @@ int main(void) {
 	int numSandwich = 0;
 	int totalPrice = 0;
 	
-	printf("*------- 카페 주문 계산 -------*\n");
+	printf("*------- 카페 주문 계산 v1 -------*\n");
 	
 	while (1) {
 		printf("커피(4,500원)와 샌드위치(6,000원)를 판매하고 있습니다.\n");
